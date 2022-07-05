@@ -2,6 +2,8 @@
 
 Project for the Programming course @ FEUP - 2019/2020
 
+The goal of this project was to develop an Scrabble command line game in C++ using Object Orienting.
+
 **Grade:** 17.9
 
 
